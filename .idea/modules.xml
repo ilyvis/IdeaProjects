@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VysokosLAB/VysokosLAB2/VysokosLAB2.iml" filepath="$PROJECT_DIR$/VysokosLAB/VysokosLAB2/VysokosLAB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VysokosLAB/vysokos.iml" filepath="$PROJECT_DIR$/VysokosLAB/vysokos.iml" />
+    </modules>
+  </component>
+</project>
