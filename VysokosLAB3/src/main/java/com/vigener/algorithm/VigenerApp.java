@@ -12,8 +12,6 @@ public class VigenerApp {
         String str = sc.nextLine();
         System.out.println("Введите кодовое слово:");
         String cWord = sc.nextLine();
-        System.out.print("Длина текста:");
-        System.out.println(str.length());
         System.out.println(crypt(str, cWord));
         string = crypt(str, cWord);
         System.out.println(decrypt(string, cWord));

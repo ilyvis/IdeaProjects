@@ -1,6 +1,6 @@
 package com.magickvadrat.algorithm;
 
-public class magicKvadrat {
+public class MagicKvadrat {
     public static String crypt(String txt) {
         int i = 0;
         StringBuilder res = new StringBuilder();

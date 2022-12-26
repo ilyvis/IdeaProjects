@@ -1,8 +1,8 @@
 package com.magickvadrat.algorithm;
 
 import java.util.Scanner;
-import static com.magickvadrat.algorithm.magicKvadrat.crypt;
-import static com.magickvadrat.algorithm.magicKvadrat.decrypt;
+import static com.magickvadrat.algorithm.MagicKvadrat.crypt;
+import static com.magickvadrat.algorithm.MagicKvadrat.decrypt;
 
 public class KvadratApp {
     public static void main(String[] args) {

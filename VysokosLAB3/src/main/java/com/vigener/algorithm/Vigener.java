@@ -1,7 +1,5 @@
 package com.vigener.algorithm;
 
-import java.util.Locale;
-
 public class Vigener {
     public static String crypt(String txt, String cWord) {
         StringBuilder res = new StringBuilder();
