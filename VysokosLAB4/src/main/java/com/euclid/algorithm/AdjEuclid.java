@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class AdjEuclid {
     public static void main(String args[])
     {
-        System.out.println("How many times you would like to try ?");
+        System.out.println("Введите количество повторов операции");
         Scanner read = new Scanner(System.in);
         int len = read.nextInt();
 
