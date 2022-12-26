@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="VysokosLAB4" />
         <module name="VysokosLAB3" />
         <module name="VysokosLAB2" />
       </profile>
@@ -14,6 +15,7 @@
       <module name="vysokos" target="17" />
       <module name="VysokosLAB2" target="17" />
       <module name="VysokosLAB3" target="17" />
+      <module name="VysokosLAB4" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
