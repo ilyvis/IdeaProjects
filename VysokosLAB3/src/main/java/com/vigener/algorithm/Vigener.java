@@ -3,11 +3,11 @@ package com.vigener.algorithm;
 import java.util.Locale;
 
 public class Vigener {
-    public static String crypt(String text, String cWord) {
+    public static String crypt(String txt, String cWord) {
         StringBuilder res = new StringBuilder();
-        text = text.toLowerCase();
+        txt = txt.toLowerCase();
         cWord = cWord.toLowerCase();
-        char[] tChar = text.toCharArray();
+        char[] tChar = txt.toCharArray();
         final char[] cChar = cWord.toCharArray();
         final char[] Ch = {'а', 'б', 'в', 'г', 'д', 'е', 'ё', 'ж',
                 'з', 'и', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с',
@@ -39,11 +39,11 @@ public class Vigener {
     }
 
 
-    public static String decrypt(String text, String cWord) {
+    public static String decrypt(String txt, String cWord) {
         StringBuilder res = new StringBuilder();
-        text = text.toLowerCase();
+        txt = txt.toLowerCase();
         cWord = cWord.toLowerCase();
-        char[] tChar = text.toCharArray();
+        char[] tChar = txt.toCharArray();
         final char[] cChar = cWord.toCharArray();
         final char[] Ch = {'а', 'б', 'в', 'г', 'д', 'е', 'ё', 'ж',
                 'з', 'и', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с',

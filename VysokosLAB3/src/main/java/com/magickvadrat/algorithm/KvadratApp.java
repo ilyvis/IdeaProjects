@@ -10,8 +10,6 @@ public class KvadratApp {
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите текст:");
         String str = sc.nextLine();
-        System.out.print("Длина текста:");
-        System.out.println(str.length());
         System.out.println(crypt(str));
         string = crypt(str);
         System.out.println(decrypt(string));
