@@ -9,6 +9,7 @@
         <module name="VysokosLAB4" />
         <module name="VysokosLAB3" />
         <module name="VysokosLAB2" />
+        <module name="vysokos" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
