@@ -13,10 +13,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BLBLBLBLBLLB" target="17" />
       <module name="vysokos" target="17" />
       <module name="VysokosLAB2" target="17" />
       <module name="VysokosLAB3" target="17" />
       <module name="VysokosLAB4" target="17" />
+      <module name="тырыпыры" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
